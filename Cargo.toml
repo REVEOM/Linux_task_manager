@@ -1,0 +1,8 @@
+[package]
+name = "linux-task-manager"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "2.33"
+sysinfo = "0.15"
